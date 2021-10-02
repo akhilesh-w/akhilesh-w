@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhilesh Waghmare</h1>
-<h3 align="center">I'm a Computer Science Undergraduate from India.</h3>
+<h3 align="center">I'm a Computer Science Undergrad from India.</h3>
 <h3 align="center">And I’m interested in web development💻</h3>
 
 <h2 align="center"><img alt="GIF" src="img/hello.gif" width="65%" height="auto" /></h2>
