@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate in real world projects. 
 - 🤔 I’m looking for: **Internship opportunities**
 - 📫 How to reach me: akhi23waghmare@gmail.com
-- 😄 Pronouns: he/him
-
 
 <!-- tech stack -->
 
@@ -37,10 +35,9 @@
 ## Connect with me:
 ### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/akhilesh-waghmare-0652a31b9/)
 ### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/the_akhilesh_w)
-### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/akhi23waghmare)
-
-  <br>
+<br>
   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-w&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-w" /> </p>
 
 <!--
 **This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
