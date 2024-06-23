@@ -1,5 +1,8 @@
-Hi there 👋
+### Hi there 👋
+
 I'm [@akhileshw](https://warpcast.com/akhileshw) on Farcaster.
+
+📚 I Graduated with a BCA from Osmania University, Hyderabad (Jay Ballaya)
 
 🌱 I’m currently expanding my knowledge on Rust, Python, and distributed computing.
 
