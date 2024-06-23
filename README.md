@@ -1,7 +1,9 @@
-![status](https://api.statusbadges.me/badge/status/771739797894070313?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/771739797894070313)
-![vscode](https://api.statusbadges.me/badge/vscode/771739797894070313)
-[![spotify](https://api.statusbadges.me/badge/spotify/771739797894070313)](https://api.statusbadges.me/openspotify/771739797894070313)
+Hi there 👋
+I'm [@akhileshw](https://warpcast.com/akhileshw) on Farcaster.
+
+🌱 I’m currently expanding my knowledge on Rust, Python, and distributed computing.
+
+📫 [Email](mailto:hey@akhileshw.xyz) is the best place to reach out!
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-w&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-w" /> </p>
 
