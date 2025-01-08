@@ -9,9 +9,6 @@ I'm [@akhileshw](https://warpcast.com/akhileshw) on Farcaster.
 📫 [Email](mailto:hey@akhileshw.xyz) is the best place to reach out!
 <br/><br/>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/771739797894070313)](https://discord.com/users/771739797894070313)
-
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-w&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-w" /> </p>
 
